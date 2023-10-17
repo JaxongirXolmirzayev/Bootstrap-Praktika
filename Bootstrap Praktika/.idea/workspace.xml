@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d54398a9-be32-4819-a48a-5762a6c92c5c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2V5E5QR2HbQI4Yqje8V9elwt31w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JS/Praktika" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dasturlash\Bootstrap\Bootstrap katta praktika" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d54398a9-be32-4819-a48a-5762a6c92c5c" name="Default Changelist" comment="" />
+      <created>1694117357134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694117357134</updated>
+      <workItem from="1694117358193" duration="133000" />
+      <workItem from="1694118847338" duration="62000" />
+      <workItem from="1694118947486" duration="124000" />
+      <workItem from="1694119373085" duration="4542000" />
+      <workItem from="1694124459589" duration="59000" />
+      <workItem from="1694124547132" duration="584000" />
+      <workItem from="1694195463724" duration="3150000" />
+      <workItem from="1694200021723" duration="17000" />
+      <workItem from="1694200059132" duration="76000" />
+      <workItem from="1694200162710" duration="5058000" />
+      <workItem from="1694279550343" duration="5306000" />
+      <workItem from="1694288088329" duration="4423000" />
+      <workItem from="1694292720175" duration="73000" />
+      <workItem from="1694367076426" duration="73000" />
+      <workItem from="1694367319561" duration="63000" />
+      <workItem from="1694367405523" duration="3393000" />
+      <workItem from="1694372668604" duration="3015000" />
+      <workItem from="1694376568994" duration="131000" />
+      <workItem from="1694376766558" duration="289000" />
+      <workItem from="1694450160922" duration="2720000" />
+      <workItem from="1694462602115" duration="3499000" />
+      <workItem from="1694545516008" duration="512000" />
+      <workItem from="1694547165963" duration="158000" />
+      <workItem from="1694547497843" duration="289000" />
+      <workItem from="1694547886209" duration="348000" />
+      <workItem from="1694631393280" duration="4269000" />
+      <workItem from="1694719205171" duration="4263000" />
+      <workItem from="1694888227160" duration="1753000" />
+      <workItem from="1695035090888" duration="66000" />
+      <workItem from="1696361263112" duration="253000" />
+      <workItem from="1696361543826" duration="46000" />
+      <workItem from="1696367516922" duration="172000" />
+      <workItem from="1696367785511" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="529" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1694121880145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="529" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1694121880145" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1696367852824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1696367852824" />
+  </component>
+</project>
